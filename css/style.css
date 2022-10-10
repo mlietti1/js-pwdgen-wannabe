@@ -1,0 +1,11 @@
+body {
+    background-color:cornflowerblue;
+    color: gold;
+    font-family: 'Press Start 2P', cursive;
+    
+}
+
+div {
+    width: 100vw;
+    height: 100vh;
+}
